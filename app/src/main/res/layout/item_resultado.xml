@@ -20,7 +20,7 @@
 
     <!--suppress AndroidDomInspection -->
     <TextView
-        android:id="@+id/Descipcion"
+        android:id="@+id/Descripcion"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_toEndOf="@id/Icono"
@@ -33,7 +33,7 @@
         android:id="@+id/Date"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_below="@id/Descipcion"
+        android:layout_below="@id/Descripcion"
         android:layout_gravity="center_vertical"
         android:layout_toEndOf="@id/Icono"
         android:maxLines="2"

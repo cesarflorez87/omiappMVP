@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">OmiApp</string>
+    <string name="ingrese_nueva_tarea">Ingrese Nueva Tarea</string>
 
 
 </resources>
